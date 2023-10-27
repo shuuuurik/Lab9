@@ -1,0 +1,6 @@
+D:\NET_Fraemwork\Laboratory Works\Lab_9\Ex1\DeviceController\bin\Debug\DeviceController.dll
+D:\NET_Fraemwork\Laboratory Works\Lab_9\Ex1\DeviceController\bin\Debug\DeviceController.pdb
+D:\NET_Fraemwork\Laboratory Works\Lab_9\Ex1\DeviceController\obj\Debug\DeviceController.csproj.AssemblyReference.cache
+D:\NET_Fraemwork\Laboratory Works\Lab_9\Ex1\DeviceController\obj\Debug\DeviceController.csproj.CoreCompileInputs.cache
+D:\NET_Fraemwork\Laboratory Works\Lab_9\Ex1\DeviceController\obj\Debug\DeviceController.dll
+D:\NET_Fraemwork\Laboratory Works\Lab_9\Ex1\DeviceController\obj\Debug\DeviceController.pdb
